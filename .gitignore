@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pptx
+*.ppt
+*.docx
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+.DS_Store
+Thumbs.db
