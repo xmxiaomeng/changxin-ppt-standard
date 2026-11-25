@@ -2,7 +2,7 @@
 name: changxin-ppt-standard
 description: "长信科技PPT规范：用于长信科技工作、技术改善、学习小结及阶段汇报的PPT制作、修改与审阅。按用户模板统一品牌蓝、横向表格、少字多图和有依据的结果表达。用户明确指定本规范，或任务明确为长信科技PPT时使用；不自动套用于其他企业或普通演示。"
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # 长信科技PPT规范
